@@ -11,7 +11,7 @@
 <body>
 <nav id="header" class="navbar navbar-expand-lg sticky-top" style="background: #FFA7A7 !important;">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Miembros</a>
+            <a class="navbar-brand" href="miembros.php">Miembros</a>
             <a class="navbar-brand" href="#">Lista de obras</a>
             <a class="navbar-brand" href="#">Venta de boletos</a>
             <a class="navbar-brand" href="#">Patronos</a>
