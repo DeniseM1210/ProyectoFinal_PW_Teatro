@@ -25,11 +25,17 @@
         <div class="col-sm-5">
             <input type="text" class="form-control" id="nombre">
         </div>
+        <div class="col-sm-5">
+            <button class="btn btn-primary">Añadir</button>
+        </div>
     </div>
     <div class="mb-3 row">
         <label for="apeMat" class="col-sm-2 col-form-label">Apellido Materno</label>
         <div class="col-sm-5">
             <input type="text" class="form-control" id="apeMat">
+        </div>
+        <div class="col-sm-5">
+            <button class="btn btn-primary">Eliminar</button>
         </div>
     </div>
     <div class="mb-3 row">
@@ -37,11 +43,17 @@
         <div class="col-sm-5">
             <input type="text" class="form-control" id="apePat">
         </div>
+        <div class="col-sm-5">
+            <button class="btn btn-primary">Consultar</button>
+        </div>
     </div>
     <div class="mb-3 row">
         <label for="correoEle" class="col-sm-2 col-form-label">Correo Electrónico</label>
         <div class="col-sm-5">
             <input type="email" class="form-control" id="correoEle">
+        </div>
+        <div class="col-sm-5">
+            <button class="btn btn-primary">Limpiar</button>
         </div>
     </div>
     <div class="mb-3 row">
